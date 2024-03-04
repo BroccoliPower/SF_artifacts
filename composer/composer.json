@@ -1,0 +1,6 @@
+{
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3",
+        "guzzlehttp/promises": "^2.0"
+    }
+}
