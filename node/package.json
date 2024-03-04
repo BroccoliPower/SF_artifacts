@@ -1,0 +1,22 @@
+{
+  "name": "sf_test",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BroccoliPower/SF_artifacts.git"
+  },
+  "author": "Talyalev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BroccoliPower/SF_artifacts/issues"
+  },
+  "homepage": "https://github.com/BroccoliPower/SF_artifacts#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
