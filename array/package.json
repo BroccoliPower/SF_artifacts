@@ -1,0 +1,19 @@
+{
+  "name": "sf_array_test_npm",
+  "version": "1.0.0",
+  "description": "test sf array npm",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BroccoliPower/SF_artifacts.git"
+  },
+  "author": "Talyalev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BroccoliPower/SF_artifacts/issues"
+  },
+  "homepage": "https://github.com/BroccoliPower/SF_artifacts#readme"
+}
